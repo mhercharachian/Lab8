@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dino List</string>
+    <string name="title_activity_2">Info</string>
+    <string name="dinoDes1">This drawing shows the possible appearance of Alamosaurus, a dinosaur from the late Cretaceous Period that reached up to 21 metres (69 feet) in length and weighed around 35 tons. Alamosaurus was a classic Sauropod with a long neck and tail that lived in what is now North America.</string>
+    <string name="dinoDes2">This CGI drawing shows the possible appearance of Baryonyx, a dinosaur from the early Cretaceous Period (around 130 million years ago). Baryonyx featured a number of adaptations which helped it hunt and eat fish, it is one of the few known fish eating dinosaurs. Baryonyx was around 8.5 metres (28 feet) in length and could weigh over 1700 kg (3700 lb).</string>
+    <string name="dinoDes3">This CGI drawing shows the possible appearance of Ceratosaurus, a dinosaur from the late Jurassic Period (around 150 million years ago). Ceratosaurus was a large, predatory dinosaur that featured sharp teeth and a large jaw. It was a classic Theropod that reached around 5 metres (17 feet) in length.</string>
+    <string name="dinoDes4">This CGI drawing shows the possible appearance of Cryolophosaurus, a dinosaur from the early Jurassic Period (around 190 million years ago). Cryolophosaurus was a large Theropod dinosaur that featured an interesting crest on its head that at one point earned it the nickname Elvisaurus (after the singer Elvis Presley).</string>
+    <string name="dinoDes5">This CGI drawing shows the possible appearance of Deinonychus, a dinosaur from the early Cretaceous Period (around 110 million years ago). Deinonychus was from the same family of dinosaurs as the Velociraptor and its name means terrible claw. For more information on this interesting dinosaur check out our Deinonychus facts page.</string>
+    <string name="dinoName1">Alamosaurus</string>
+    <string name="dinoName2">Baryonyx</string>
+    <string name="dinoName3">Ceratosaurus</string>
+    <string name="dinoName4">Cryolophosaurus</string>
+    <string name="dinoName5">Deinonychus</string>
+    <string name="DialogMessage">This app practices ListViews, Custom Adapters and Menus. Made by Andreea D</string>
+    <string name="DialogTitle">About</string>
+</resources>
